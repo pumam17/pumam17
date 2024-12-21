@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Mitch Puma</title>
+Mitch Puma
 </head>
 <body>
 
