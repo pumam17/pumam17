@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Github Readme</title>
+<title></title>
 </head>
 <body>
 
