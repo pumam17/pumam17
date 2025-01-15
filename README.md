@@ -7,7 +7,7 @@ Mitch Puma
 <body>
 
 <h1>Hello, I am a Computer Software Development major at Cincinnati State Technical and Community College.</h1>
-<p>My current skills are Visual Basic .NET, Microsoft SQL Server, Python, and Agile.</p>
+<p>My current skills are Visual Basic .NET, Microsoft SQL Server, and Python.</p>
 <p>https://www.cincinnatistate.edu/academics/degree-certificate/computer-programming-and-database-management-computer-software-development-major-csd</p>
 <p>www.linkedin.com/in/mitch-puma-0180b928a</p>
 
