@@ -5,7 +5,7 @@
 Mitch Puma
 </head>
 <body>
-<p>www.linkedin.com/in/mitch-puma</p>
+<p></p>
 </body>
 </html>
 <!--
